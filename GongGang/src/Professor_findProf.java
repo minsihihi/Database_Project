@@ -251,6 +251,7 @@ public class Professor_findProf extends JFrame {
             return email;
         }
 
+        
         public void setEmail(String email) {
             this.email = email;
         }
